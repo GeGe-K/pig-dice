@@ -1,0 +1,30 @@
+.container{
+  font-family: fantasy;
+  /* background-color: #FFF;
+  margin-left: 200px;
+  margin-right: 200px;
+  box-sizing: border-box;
+  padding: auto; */
+}
+h1{
+  text-align: center;
+  font-family: fantasy;
+}
+p{
+  font-style: italic;
+}
+body{
+  background-color: #83ddff
+  font-family: fantasy;
+}
+.card{
+  background-color: #2375ff;
+  border: 2px solid black;
+}
+#rules{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-weight: bold;
+}
